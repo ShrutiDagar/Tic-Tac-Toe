@@ -2,7 +2,8 @@
 Developed a single-player Tic Tac Toe game using HTML, CSS, and JavaScript, featuring interactive gameplay, intuitive user interface elements, and JavaScript logic for game rules and outcomes.
 
 ![image](https://github.com/ShrutiDagar/Tic-Tac-Toe/assets/98103256/5a2712f0-0ea8-4c6a-9710-d0af91758977)
-![image](https://github.com/ShrutiDagar/Tic-Tac-Toe/assets/98103256/cf47e5be-6dba-4dd0-a1b2-5a288b22de4a)
+![image](https://github.com/ShrutiDagar/Tic-Tac-Toe/assets/98103256/ffcf2372-7fd9-4d17-a774-9effb15bed4f)
+
 
 
 # Features
@@ -21,4 +22,4 @@ Developed a single-player Tic Tac Toe game using HTML, CSS, and JavaScript, feat
 - Familiarity with event handling and DOM manipulation in JavaScript
 
 
-# 📺To Watch the Demo video click 
+# 📺To Watch the Demo video click [here](https://drive.google.com/file/d/1sTmoLagexBl6NjkrBQy8FX1ffg-joWXF/view?usp=sharing)
